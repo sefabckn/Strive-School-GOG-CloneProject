@@ -49,17 +49,24 @@
     }
     
     #CarouselButton1 {
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        margin: auto;
         position: relative;
         background-color: #aee245;
         border: unset;
         width: max-content;
         height: max-content;
-        font-size: xx-large;
+        font-size: x-large;
         align-items: center;
         justify-content: center;
+        padding-right: 80px;
+        padding-left: 80px;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    
+    #cyberpunk {
+        position: relative;
+        padding-left: 15px;
     }
